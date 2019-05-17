@@ -8,3 +8,4 @@
 
 ## user - root
 ## pw - root
+## Blog post : https://medium.com/@sakindu/secure-from-csrf-attacks-double-submit-cookies-pattern-a163f26916a0
